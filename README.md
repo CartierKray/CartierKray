@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 <div align="center" display="grid" >
 - 🔭 I’m currently working on variety of projects
+<br>
 - 🌱 I’m currently learning Front & Back End, along with A.I.
+<br>
 - 👯 I’m looking to collaborate on various projects!
+<br>
 - 📫 You can reach me through <a href="https://linkedin.com/in/KrishanRamdin">LinkedIn</a> or <a href="https://twitter.com/cartierkray">Twitter</a>
 </div>
 

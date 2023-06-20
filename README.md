@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center">Languages & Tools</h3>
-<div style="display: grid; column-row: 2;">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="display: flex;justify-content: center;">
       <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
       </a>
@@ -82,7 +81,6 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
       </a>
     </div>
-  </div>
-</div>
+
 
 

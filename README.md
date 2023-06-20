@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="left">🎉 Hi there, I'm <a href="https://github.com/CartierKray">@CartierKray</h1>
-<hr>
+<hr height="1px">
 <div align="left" display="grid" >
 🔭 I’m currently working on a variety of projects
 <br>

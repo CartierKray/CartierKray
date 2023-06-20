@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">🎉 Hi there, I'm <a href="https://github.com/CartierKray">@CartierKray</h1>
-<h4 align="center">A passionate Full-Stack-Developer from Amsterdam, The Netherlands </h3>
+
 
 
 
 <p align="center">
 </p>
 
-<h3 align="center">Skills</h3>
+<h3 align="center">My Skills</h3>
 <div align="center">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
       <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>

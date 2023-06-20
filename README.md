@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center">Languages & Tools</h3>
-<div style="text-align: center;">
+<div style="text-align: center; max-width: 600px; margin: 0 auto;">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>

@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 text-align="center">🎉 Hi there, I'm <a href="https://github.com/CartierKray">@CartierKray</h1>
+<h3 align="center">🎉 Hi there, I'm <a href="https://github.com/CartierKray">@CartierKray</h1>
 
-<div align="center" >
+<div align="center" display="grid" >
 - 🔭 I’m currently working on variety of projects
 - 🌱 I’m currently learning Front & Back End, along with A.I.
 - 👯 I’m looking to collaborate on various projects!

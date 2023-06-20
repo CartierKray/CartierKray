@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 
 <h3 align="center">🎉 Hi there, I'm <a href="https://github.com/CartierKray">@CartierKray</h1>
 
-
+- 🔭 I’m currently working on variety of projects
+- 🌱 I’m currently learning Front & Back End, along with A.I.
+- 👯 I’m looking to collaborate on various projects!
+- 📫 <p>You can reach me through LinkedIn or <a href="https://twitter.com/cartierkray>"Twitter..</p>
 
 
 <p align="center">

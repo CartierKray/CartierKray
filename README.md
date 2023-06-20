@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 <p align="center">
 </p>
 <br>
-<br>
 <h3 align="center">My Skills</h3>
 <div align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">

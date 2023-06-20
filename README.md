@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align="center">
 </p>
 
-<h3 align="center">Languages & Tools Skills</h3>
+<h3 align="center">Skills</h3>
 <div align="center">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
       <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>

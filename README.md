@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 <h3 align="center">🎉 Hi there, I'm <a href="https://github.com/CartierKray">@CartierKray</h1>
 
 <div align="center" display="grid" >
-- 🔭 I’m currently working on variety of projects
+🔭 I’m currently working on variety of projects
 <br>
 <br>
-- 🌱 I’m currently learning Front & Back End, along with A.I.
+🌱 Also currently learning Front & Back End, along with A.I.
 <br>
 <br>
-- 👯 I’m looking to collaborate on various projects!
+👯 I’m looking to collaborate on various projects!
 <br>
 <br>
-- 📫 You can reach me through <a href="https://linkedin.com/in/KrishanRamdin">LinkedIn</a> or <a href="https://twitter.com/cartierkray">Twitter</a>
+📫 You can reach me through <a href="https://linkedin.com/in/KrishanRamdin">LinkedIn</a> or <a href="https://twitter.com/cartierkray">Twitter</a>
 </div>
 
 <p align="center">

@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">🎉 Hi there, I'm @CartierKray</h1>
+<h1 align="center">🎉 Hi there, I'm <a href="https://github.com/CartierKray">@CartierKray</h1>
 <h3 align="center">A passionate Full-Stack-Developer from Amsterdam, The Netherlands </h3>
 
 

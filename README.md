@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 👯 And I'm looking to collaborate on various projects!
 <br>
 <br>
-📫 You can reach me through <a href="https://linkedin.com/in/KrishanRamdin">LinkedIn</a> or <a href="https://twitter.com/cartierkray">Twitter</a>
+📫 You can reach me through <a href="https://linkedin.com/in/KrishanRamdin">LinkedIn</a> or <a href="https://twitter.com/cartierkray020">Twitter</a>
 </div>
 
 <p align="center">

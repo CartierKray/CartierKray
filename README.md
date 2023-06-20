@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **CartierKray/CartierKray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">🎉 Hi, I'm @CartierKray</h1>
-<h3 align="center"> Full Stack Developer from Amsterdam, The Netherlands ❌❌❌</h3>
+<h1 align="center">🎉 Hi there, I'm @CartierKray</h1>
+<h3 align="center">A passionate Full-Stack-Developer from Amsterdam, The Netherlands </h3>
 
 
 

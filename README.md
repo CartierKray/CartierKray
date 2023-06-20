@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">🎉 Hi, I'm @CartierKray</h1>
-<h3 align="center">A passionate full stack developer from Amsterdan, The Netherlands</h3>
+<h3 align="center"> Full Stack Developer from Amsterdam, The Netherlands</h3>
+<h3 align="center">❌❌❌</h3>
 
-- ⚡ Fun fact **Hardware eventually falls, Software eventually works**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

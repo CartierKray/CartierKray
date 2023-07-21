@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">🏡 Hello, I'm <a href="https://github.com/CartierKray">@CartierKray</h1>
+<h3 align="left">Hello, I'm <a href="https://github.com/CartierKray">@CartierKray</h1>
 <br>
 <div align="left" display="grid" >
 • Currently working on a variety of front & back end projects
